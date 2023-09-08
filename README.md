@@ -3,6 +3,7 @@
 ![Screenshot 2023-09-08 234620](https://github.com/jaideepsingh0085/bocks/assets/128147644/c0a93013-c9fb-4f95-863c-3b1df55823d5)
 ![Screenshot 2023-09-08 234629](https://github.com/jaideepsingh0085/bocks/assets/128147644/d08f8af3-c006-4b27-a0ef-51c174cee238)
 
+Hosted Link : https://jaideepsingh0085.github.io/bocks/
  HTML Tags:
  <head>: Contains metadata about the HTML document.
 <body>: Represents the main content of the HTML document.
